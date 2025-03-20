@@ -1,0 +1,19 @@
+# Zhiqiang Li
+
+I am an Associate Professor of School of Big Data and Software Engineering, Shaanxi Normal University, Xi'an, China. I received my PhD degree in School of Computer Science, Wuhan University in 2018. 
+
+My research is in the area of software engineering, in particular, software defect prediction, mining software repository, empirical software engineering, and software analytics. The main theme of my research is to improve software quality and productivity by mining and analyzing software data. I have published more than 30 Research Papers in international journals and conferences, including TSE, TR, TIP, ASEJ, ICSME, and ESEM. I am a Member of CCF and IEEE. 
+
+More information about me can be found at my DBLP(https://dblp.uni-trier.de/pid/14/5778-3.html) and ORICD.
+
+**Research Area**
+
+My research area is software engineering, in particular:
+
+-Software defect prediction
+
+-Mining software repository
+
+-Empirical software engineering
+
+-Software analytics
