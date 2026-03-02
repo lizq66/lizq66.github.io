@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publications/2018-heterogeneous-cost-sensitive
 excerpt: 'This paper investigates cost-sensitive domain adaptation for heterogeneous fault prediction.'
-date: 2018
+date: 2018-01-01
 venue: 'Software Testing, Verification and Reliability'
 citation: 'Zhiqiang Li, Xiao-Yuan Jing, Xiaoke Zhu. (2018). &quot;Heterogeneous fault prediction with cost sensitive domain adaptation.&quot; <i>Software Testing, Verification and Reliability</i>. 28(2): 1-22. (CCF B)'
 ---
