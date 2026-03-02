@@ -8,4 +8,4 @@ date: 2024
 venue: 'Automated Software Engineering'
 citation: 'Zhiqiang Li, Jingwen Niu, Xiao-Yuan Jing. (2024). &quot;Software defect prediction: future directions and challenges.&quot; <i>Automated Software Engineering</i>. 31(1): 1-14. (CCF B)'
 ---
-More informations about the paper are at [SpringerLink](https://doi.org/10.1007/s10515-024-00001-0)
+More informations about the paper are at [SpringerLink](https://doi.org/10.1007/s10515-024-00424-1)
