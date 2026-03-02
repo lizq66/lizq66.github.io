@@ -2,7 +2,7 @@
 title: "DSSDPP: Data selection and sampling based domain programming predictor for cross-project defect prediction"
 collection: publications
 category: manuscripts
-permalink: /publication/2023-04-01-dssdpp-cross-project-defect-prediction
+permalink: /publications/2023-04-01-dssdpp-cross-project-defect-prediction
 excerpt: 'This paper proposes DSSDPP, a data selection and sampling based domain programming predictor for cross-project defect prediction.'
 date: 2023-04-01
 venue: 'IEEE Transactions on Software Engineering'
