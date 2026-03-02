@@ -1,7 +1,7 @@
 ---
 title: "Heterogeneous defect prediction through multiple kernel learning and ensemble learning"
 collection: publications
-category: manuscripts
+category: Conference
 permalink: /publications/2017-heterogeneous-mkl-ensemble
 excerpt: 'This paper studies heterogeneous defect prediction using multiple kernel and ensemble learning.'
 date: 2017-01-01
